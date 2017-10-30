@@ -24,15 +24,5 @@
 	"crud_types_response": [{
 		"transaction": "successful",
 		"idType": 1231231
-	}],
-	"crud_clients": [{
-		"token": "ASDASDA123123S",
-		"endpoint": "crud_clients",
-		"action": "create",
-		"delegateName": "Arturo Bryan",
-		"delegateSurname": "Pratt González",
-		"rut": "16545678-3",
-		"colegio": "El verbo divino",
-		"curso": "2 Medio A"
 	}]
 }
