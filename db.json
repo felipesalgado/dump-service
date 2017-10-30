@@ -1,13 +1,13 @@
 {
-	"login": {
+	"login": [{
 		"token": "ASDASDA123123S",
 		"endpoint": "login",
 		"user": "lucho@duoc.cl",
 		"pass": "laRobaPilas17"
-	},
-	"login_response": {
+	}],
+	"login_response": [{
 		"grant": true,
 		"profile": "ejecutivo",
 		"userId": 13123123
-	}
+	}]
 }
